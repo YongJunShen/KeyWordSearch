@@ -68,7 +68,6 @@ class FileUtil
 
 end
 
-
 filePath = ARGV[0]
 keyword = ARGV[1]
 fileUtil =  FileUtil.new(filePath, keyword)
